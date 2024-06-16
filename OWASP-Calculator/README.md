@@ -7,6 +7,6 @@
 
 ![](https://raw.githubusercontent.com/JavierOlmedo/OWASP-Calculator/master/img/orac.gif)
 
-> _Made with ❤️ in Spain_
+> _Team 23: Harsh(1AY21CS062),Harshini(1AY21CS063), Hema(1AY21CS065),Huzaif(1AY21CS066)_
 
 </div>
